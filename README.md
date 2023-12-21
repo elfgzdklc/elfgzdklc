@@ -40,5 +40,5 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfgzdklc" height="250"alt="elfgzdklc" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfgzdklc" height="200"alt="elfgzdklc" />
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfgzdklc&show_icons=true&locale=en" height="200" alt="elfgzdklc" /></p>
