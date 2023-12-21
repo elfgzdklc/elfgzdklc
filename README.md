@@ -42,5 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfgzdklc&show_icons=true&locale=en" alt="elfgzdklc" /></p>
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elfgzdklc&theme=github" alt="elfgzdklc" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfgzdklc" alt="elfgzdklc" /></p>
