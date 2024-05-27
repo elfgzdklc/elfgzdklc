@@ -1,7 +1,7 @@
 <h1 align="center">Selam 👋, Gözde ben!</h1>
 <h3 align="center">Web üzerine bi' yazılım geliştirici olarak öğrenmeye devam ediyorum.</h3>
 
-- 🔭 Şu an üzerinde çalışıyorum; [Bufi B2B ve Bayi Yönetimi]([https://github.com/elfgzdklc/next-typescript-redux](https://buficore.com/b2b-bayi-yonetim-sistemi))
+- 🔭 Şu an üzerinde çalışıyorum; [Bufi B2B ve Bayi Yönetimi]([https://buficore.com/b2b-bayi-yonetim-sistemi])
 
 - 🌱 Öğrenme sürecimdekiler; **redux, typescript**
 
